@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mba:home|Door43 (mba)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mba|d43-mba repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mba/archive/master.zip|d43-mba.zip]]
+
+**Recent Changes**
+{{changes>ns = mba}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mba|Ethnologue data]]
+
